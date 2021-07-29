@@ -1,4 +1,4 @@
-package string;
+package patternmatch;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package string;
+package patternmatch;
 
 /**
  * Time Complexity: O(n)
